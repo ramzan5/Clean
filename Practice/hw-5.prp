@@ -1,0 +1,12 @@
+Version: 1.5
+MainModule
+	Name:	hw-5
+	Dir:	{Project}
+	DclOpen:	False
+	Icl
+		WindowPosition
+			X:	409
+			Y:	107
+			SizeX:	1366
+			SizeY:	674
+	IclOpen:	False

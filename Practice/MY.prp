@@ -1,0 +1,6 @@
+Version: 1.5
+MainModule
+	Name:	MY
+	Dir:	{Project}
+	DclOpen:	False
+	IclOpen:	True
